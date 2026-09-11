@@ -191,7 +191,7 @@ Security: only a 5-hex-character prefix (out of 40) leaves the machine, over HTT
 
 - Portfolio : https://lenu-san.github.io
 - GitHub : https://github.com/Lenu-san
-- LinkedIn : https://www.linkedin.com/in/lenusan-gunarajah
+- LinkedIn : https://www.linkedin.com/in/l%C3%A9nusan-g-0470b6336
 
 ## Licence / License
 
